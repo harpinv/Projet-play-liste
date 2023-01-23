@@ -1,0 +1,63 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 20px;
+    background-color: lightskyblue;
+}
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+    font-weight: bolder;
+    margin-top: 20px;
+}
+
+#contenue {
+    background-color: beige;
+    border-radius: 40px;
+    margin: 40px;
+    padding: 20px;
+    text-align: center;
+}
+
+.tableau {
+    margin: 20px;
+}
+
+.boutStyle {
+    background-color: burlywood;
+    padding: 10px;
+    border-radius: 40px;
+    margin-top: 20px;
+}
+
+.boutStyle:hover {
+    color: white;
+}
+
+.play {
+    background-color: gold;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 10px;
+}
+
+#bouton2 {
+    width: 162px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid black;
+    font-size: 15px;
+}
+
+.story {
+    background-color: lightgreen;
+    border-radius: 15px;
+    padding: 10px;
+    margin: 5px 15px;
+}
